@@ -1,8 +1,5 @@
-# resumo_criar_copilot
-Resumo de como criar e executar um copilot, desafio da DIO
-Claro! Aqui está o passo a passo em primeira pessoa, de forma resumida:
-
----
+# Resumo: como criar um Copilot
+desafio da DIO
 
 ### Passo 1: Acessar o Microsoft Copilot Studio
 Primeiro, abro o navegador e vou até o site do **Microsoft Copilot Studio**. Faço login com minha conta Microsoft. Caso não tenha uma, crio uma conta.
